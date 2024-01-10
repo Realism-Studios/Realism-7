@@ -1,8 +1,6 @@
-# Realism-7
-The first Realism game. Don't ask why it starts at 7, counting is hard.
-
-This game got a Deluxe release several months after the original, if
-you're interested, see the `dx` branch.
+# Realism 7 Deluxe
+The Deluxe re-release of the original Realism 7 mod. Whether it's better than the OG is up to
+you to decide. See the `main` branch for the original release of the game.
 
 If you have any questions or concerns, ask in our [Discord Server][discord].
 
@@ -13,5 +11,4 @@ It's pretty self-explanatory, so I won't talk about it that much.
 
 
 <!-- Links -->
-[NSMBWer+]: https://github.com/Ryguy0777/NSMBWerPlus
 [discord]: https://discord.gg/ycRTYaYPu3
