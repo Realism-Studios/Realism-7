@@ -1,0 +1,19 @@
+<wiidisc version="1">
+	<id game="SMN"/>
+	<options>
+		<section name="REAL7">
+			<option name="REAL7">
+				<choice name="REAL7">
+					<patch id="REAL7"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="REAL7">
+		<folder external="/REAL7" disc="/"/>
+		<folder external="/REAL7" recursive="false"/>
+		<folder external="/REAL7/Object" disc="/Object" create="true"/>
+		<folder external="/REAL7/Stage/Texture" disc="/Stage/Texture" create="true"/>
+		<folder external="/REAL7/Sound" disc="/Sound" create="true"/>
+	</patch>
+</wiidisc>
